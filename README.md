@@ -102,9 +102,9 @@ The Streamlit dashboard allows users to enter an order profile and receive a liv
 
 Example dashboard screenshots:
 
-![Dashboard Home](reports/screenshots/dashboard_home.png)
+![Dashboard Home](reports/screenshots/dashboard_overview.png)
 
-![Risk Prediction](reports/screenshots/risk_prediction.png)
+![Risk Prediction](reports/screenshots/live_prediction.png)
 
 ![Feature Importance](reports/screenshots/feature_importance.png)
 
