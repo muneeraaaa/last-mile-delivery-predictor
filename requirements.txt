@@ -1,0 +1,13 @@
+pandas
+numpy
+xgboost
+scikit-learn
+streamlit
+plotly
+google-cloud-bigquery
+db-dtypes
+pyarrow
+kaggle
+matplotlib
+seaborn
+openpyxl
