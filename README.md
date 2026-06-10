@@ -159,7 +159,7 @@ aramex-delivery-predictor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/last-mile-delivery-predictor.git
+git clone https://github.com/muneeraaaa/last-mile-delivery-predictor.git
 cd last-mile-delivery-predictor
 ```
 
