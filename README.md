@@ -128,7 +128,7 @@ Example BigQuery screenshot:
 ## Repository Structure
 
 ```text
-aramex-delivery-predictor/
+last-mile-delivery-predictor/
 │
 ├── dashboard/
 │   └── app.py
