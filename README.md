@@ -1,4 +1,4 @@
-# Aramex Last-Mile Delivery Success Prediction
+# Last-Mile Delivery Success Prediction
 
 An end-to-end machine learning project that predicts whether an e-commerce delivery is at risk of arriving late. The project uses real public order data, feature engineering, XGBoost classification, a Streamlit dashboard, SQL analytics, and an optional BigQuery cloud data warehouse layer.
 
@@ -159,8 +159,8 @@ aramex-delivery-predictor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aramex-delivery-predictor.git
-cd aramex-delivery-predictor
+git clone https://github.com/YOUR_USERNAME/last-mile-delivery-predictor.git
+cd last-mile-delivery-predictor
 ```
 
 ### 2. Create and activate a virtual environment
@@ -244,4 +244,4 @@ These files are excluded through `.gitignore`.
 
 ## Disclaimer
 
-This project uses a public Brazilian e-commerce dataset as a proxy for last-mile logistics risk prediction. It is not trained on private Aramex operational data.
+This project uses a public Brazilian e-commerce dataset as a proxy for last-mile logistics risk prediction. It is not trained on private company operational data.
